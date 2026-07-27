@@ -1,0 +1,7 @@
+{
+  "optimal_threshold": 0.2698,
+  "roc_auc": 0.9966,
+  "max_youden_j": 0.9547,
+  "tpr_at_optimal": 0.9932,
+  "fpr_at_optimal": 0.0385
+}

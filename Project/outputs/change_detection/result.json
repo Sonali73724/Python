@@ -1,0 +1,12 @@
+{
+    "dataset_used": "EuroSAT",
+    "before_class": "Industrial",
+    "after_class": "Pasture",
+    "confidence_before": 99.99,
+    "confidence_after": 92.58,
+    "embedding_dim": 512,
+    "similarity": 0.5379,
+    "threshold": 0.2698,
+    "changed": false,
+    "status": "No Change"
+}

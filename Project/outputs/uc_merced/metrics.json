@@ -1,0 +1,11 @@
+{
+  "accuracy": 0.9619047619047619,
+  "precision": 0.9597282891400538,
+  "recall": 0.9578463203463204,
+  "f1_score": 0.9565599206899704,
+  "macro_precision": 0.9597282891400538,
+  "macro_recall": 0.9578463203463204,
+  "macro_f1": 0.9565599206899704,
+  "dataset": "UC Merced Land Use (21 classes)",
+  "num_classes": 21
+}

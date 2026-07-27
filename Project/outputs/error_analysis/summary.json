@@ -1,0 +1,7 @@
+{
+  "total_test_samples": 4050,
+  "total_errors": 117,
+  "test_accuracy": 0.9711,
+  "top5_max_confidence": 0.9984,
+  "most_common_confusion": "PermanentCrop -> HerbaceousVegetation"
+}

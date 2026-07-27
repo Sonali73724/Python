@@ -1,0 +1,13 @@
+{
+  "project_information": {
+    "project_name": "Deep Learning Land-Use Classification & Change Detection",
+    "pytorch_version": "2.13.0+cu130",
+    "device": "cuda"
+  },
+  "report_values": {
+    "test_accuracy": 97.11,
+    "uc_merced_accuracy": 96.19,
+    "baseline_accuracy": 78.05,
+    "frozen_resnet_accuracy": 89.83
+  }
+}

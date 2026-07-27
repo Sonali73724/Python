@@ -1,0 +1,6 @@
+Sample_ID,True_Class,Predicted_Class,Confidence
+77,PermanentCrop,HerbaceousVegetation,0.9984
+1796,Residential,HerbaceousVegetation,0.9984
+3183,River,Highway,0.9983
+3353,AnnualCrop,PermanentCrop,0.9964
+945,Pasture,HerbaceousVegetation,0.9953
