@@ -222,3 +222,7 @@ Please download the datasets from their official sources and place them in the a
 ## Model Checkpoint
 The trained model checkpoint (.pth) is not included because it exceeds GitHub's 100 MB file size limit.
 The project can be retrained using the provided notebooks and source code.
+
+## Demo Video
+The demo video is included in this repository.
+If GitHub cannot preview the video due to its size, please download the file and play it locally.
