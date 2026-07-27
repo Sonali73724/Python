@@ -214,3 +214,11 @@ This project is licensed under the **MIT License**.
 * **EuroSAT Dataset**: European Space Agency (ESA) Sentinel-2 satellite dataset.
 * **UC Merced Land Use Dataset**: USGS National Map Urban Area Imagery collection.
 * **PyTorch & Torchvision**: Deep learning framework and pre-trained backbone models.
+
+## Dataset
+The original EuroSAT and UC Merced datasets are not included in this repository because of their large size.
+Please download the datasets from their official sources and place them in the appropriate dataset directory before running the project.
+
+## Model Checkpoint
+The trained model checkpoint (.pth) is not included because it exceeds GitHub's 100 MB file size limit.
+The project can be retrained using the provided notebooks and source code.
